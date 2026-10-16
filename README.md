@@ -1,4 +1,4 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
 # HealthStorage App
 HealthStorage is a smart and secure health-tracking application designed to help users monitor essential daily metrics with ease. By subscribing to either the Essential or Extra package, users gain access to real-time heart rate and step count tracking. All collected data is stored locally on the device, ensuring full privacy and complete user control.
